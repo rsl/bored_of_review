@@ -1,4 +1,8 @@
-bored_of_review
+Bored of Review
 ===============
 
-Comment spam detection and marking system
+A comment spam detection and marking system. 
+
+Also a pun.
+
+Details to come where the codebase actually exists.
